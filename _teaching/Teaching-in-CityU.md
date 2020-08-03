@@ -1,10 +1,23 @@
+---
+title: "Teaching at City University of Hong Kong"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/Teaching-in-CityU
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
+---
+
+
+
+
 Teaching at City University of Hong Kong
 ========
 
 Lecturer
 -------
 
-2018/19 Semester A: _MA1200 Calculus and Basic Linear Algebra I_
+2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](http://academicpages.github.io/files/paper1.pdf)
 
 2018/19 Semester B: _MA1201 Calculus and Basic Linear Algebra II_
 
@@ -18,16 +31,3 @@ Teaching Assistant
 2018/19 Semester B: _MA8006 Functional Analysis and Applications_
 
 2019/20 Semester B: _MA3511 Ordinary Differential Equations_
-
-
----
-title: "Teaching 1"
-collection: teaching
-permalink: /teaching/Teaching-in-CityU
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
----
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
