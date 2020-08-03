@@ -1,7 +1,7 @@
 ---
 title: "Teaching at City University of Hong Kong"
 collection: teaching
-permalink: /teaching/Teaching-in-CityU
+permalink: /teaching/Teaching-in-CityU 
 ---
 From 2018 - Now.
 
@@ -9,7 +9,7 @@ From 2018 - Now.
 Lecturer
 -------
 
-2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](http://academicpages.github.io/files/paper1.pdf)
+2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](http://academicpages.github.io/files/18-19A-MA1200.pdf)
 
 2018/19 Semester B: _MA1201 Calculus and Basic Linear Algebra II_
 
