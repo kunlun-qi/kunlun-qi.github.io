@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Welcome to Kunlun Qi's homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 This is Kunlun Qi's Homepage, which is under construction.
+
+## Bio
