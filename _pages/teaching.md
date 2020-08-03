@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching at City University of Hong Kong
-============================
+{% include base_path %}
 
-Lecturer
--------
+## Teaching at City University of Hong Kong
+
+### Lecturer
+
 
 2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](/files/paper2.pdf)
 
@@ -19,8 +20,8 @@ Lecturer
 
 2019/20 Semester B: _MA0101 Basic Engineering Mathematics I_
 
-Teaching Assistant
---------
+### Teaching Assistant
+
 
 2018/19 Semester B: _MA8006 Functional Analysis and Applications_
 
