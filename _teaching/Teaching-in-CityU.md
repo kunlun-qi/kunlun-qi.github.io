@@ -2,7 +2,7 @@
 title: "Teaching at City University of Hong Kong"
 collection: teaching
 permalink: /teaching/Teaching-in-CityU
-
+---
 
 Lecturer
 -------
