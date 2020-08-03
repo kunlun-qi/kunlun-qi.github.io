@@ -9,7 +9,7 @@ From 2018 - Now.
 Lecturer
 -------
 
-2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](http://academicpages.github.io/files/18-19A-MA1200.pdf)
+2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](http://academicpages.github.io/files/1819MA1200.pdf)
 
 2018/19 Semester B: _MA1201 Calculus and Basic Linear Algebra II_
 
