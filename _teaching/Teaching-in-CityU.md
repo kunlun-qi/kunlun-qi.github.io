@@ -2,9 +2,7 @@
 title: "Teaching at City University of Hong Kong"
 collection: teaching
 permalink: /teaching/Teaching-in-CityU
-venue: "From 2018 - now"
-location: "Hong Kong"
----
+
 
 Lecturer
 -------
