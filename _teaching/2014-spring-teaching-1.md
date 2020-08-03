@@ -1,5 +1,10 @@
-Teaching at City University of Hong Kong
-=======
+---
+title: "Teaching at City University of Hong Kong"
+collection: teaching
+permalink: /teaching/2015-spring-teaching-1
+date: 2018-Now
+
+
 
 Lecturer
 -------
