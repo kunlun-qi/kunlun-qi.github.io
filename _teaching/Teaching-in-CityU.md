@@ -18,3 +18,16 @@ Teaching Assistant
 2018/19 Semester B: _MA8006 Functional Analysis and Applications_
 
 2019/20 Semester B: _MA3511 Ordinary Differential Equations_
+
+
+---
+title: "Teaching 1"
+collection: teaching
+permalink: /teaching/Teaching-in-CityU
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+---
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
