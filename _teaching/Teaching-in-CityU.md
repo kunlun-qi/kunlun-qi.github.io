@@ -1,18 +1,10 @@
 ---
 title: "Teaching at City University of Hong Kong"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/Teaching-in-CityU
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "From 2018 - now"
+location: "Hong Kong"
 ---
-
-
-
-
-Teaching at City University of Hong Kong
-========
 
 Lecturer
 -------
