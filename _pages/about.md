@@ -15,7 +15,7 @@ This is Kunlun Qi's Homepage, which is under construction.
 
 
 
-#### Contact
-**Office Addr.:** Room 1392, Fong Yun-wah Building, 83 Tat Chee Avenue <br>
-**Office Tel.:** (+852) 3442 8683 <br>
-**Email:** kunlun.qi@my.cityu.edu.hk <br>
+### Contact
+#### **Office Addr.:** Room 1392, Fong Yun-wah Building, 83 Tat Chee Avenue <br>
+#### **Office Tel.:** (+852) 3442 8683 <br>
+#### **Email:** kunlun.qi@my.cityu.edu.hk <br>
