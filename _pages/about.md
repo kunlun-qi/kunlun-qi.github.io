@@ -11,9 +11,9 @@ Department of Mathematics <br>
 City University of Hong Kong <br>
 Kowloon Tong, Kowloon, Hong Kong <br>
 
-<font size="2">**Office Address**: Room 1392, Fong Yun-wah Building</font><br /> 
-<font size="2">**Office Phone**: (+852) 3442 8683</font><br /> 
-<font size="2">**Email**: kunlun.qi@my.cityu.edu.hk</font><br /> 
+<font face="黑体" size="4">Office Address:</font> <font size="4">Room 1392, Fong Yun-wah Building</font><br> 
+<font face="黑体" size="4">Office Phone:</font>  <font size="4">(+852) 3442 8683</font><br> 
+<font face="黑体" size="4">Email:</font> <font size="4">kunlun.qi@my.cityu.edu.hk</font><br> 
 
 
 ## Bio
