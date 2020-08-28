@@ -16,7 +16,7 @@ author_profile: true
 
 2018/19 Semester B: [_MA1201 Calculus and Basic Linear Algebra II_](/files/1819BMA1201.pdf)
 
-2019/20 Semester A: _MA2172 Applied Statistics for Sciences and Engineering_
+2019/20 Semester A: [_MA2172 Applied Statistics for Sciences and Engineering_](/files/1920MA2172.pdf)
 
 2019/20 Semester B: _MA0101 Basic Engineering Mathematics I_
 
