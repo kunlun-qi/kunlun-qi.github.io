@@ -18,7 +18,8 @@ The heuristic motivations that push me to find out the Measure-valued Solution c
 - In the _**numerical**_ sense, I mainly focus on developing an efficient and accurate numerical method in simulating the kinetic equation, which I mean the _Fast Spectral Method_ ([I. Gamba, J. Haack, C. Hauck and J. Hu 2017](https://jingweihu-math.github.io/webpage/files/GHHH17.pdf)) for Boltzmann equation and its related variants. Comparing with other stochastic methods (like DSMC) or deterministic methods (like Discrete Velocity Models), the Fast Spectral Method has the followings advantages:
 > (i). It is able to transform the high dimensional and nonlinear integral operator, which is regarded as the main trouble-maker of the numerical simulation in Boltzmann equation, into a relatively simple weighted convolutional structure. <br>
 > (ii). It provides significantly more accurate results with less numerical complexity O(N^6) and storage requirement O(MN^4, M<N), and the fast acceleration can further reduce the computational cost to (MN^3logN, M<N) with the help of FFT. <br>
-> (iii). Its spatially homogeneous form can serve as a "black-box" solver in the velocity domain to be combined with other time and spatial discretization method to simulate the more practical complete Boltzmann equation, even with more complex geometric property. <br>
+> (iii). Its spatially homogeneous form can serve as a "black-box" solver in the velocity domain to be combined with other time and spatial discretization method to simulate the more practical complete Boltzmann equation, even with more complex geometric property. 
+
 The following figure describes "Time Evolution of a Measure-valued Solution to Boltzmann equation with different collision kernels", which is simulated by our Fast Spectral Method:
 ![Time Evolution of Measure-valued Solution to Boltzmann equation with different collision kernels, which is simulated by our Fast Spectral Method](/files/four3.jpg )
 
