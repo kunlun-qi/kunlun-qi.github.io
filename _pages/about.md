@@ -10,8 +10,8 @@ redirect_from:
 **_Office Address:_** Room 1392, Fong Yun-wah Building <br>
 City University of Hong Kong, 83 Tat Chee Avenue <br>
 Kowloon Tong, Kowloon, Hong Kong<br>
-**_Office Phone_**: (+852) 3442 8683<br>
-**_Email_**: kunlun.qi@my.cityu.edu.hk
+**_Office Phone:_** (+852) 3442 8683<br>
+**_Email:_** kunlun.qi@my.cityu.edu.hk
 
 ## Bio
 I'm a third year Ph.D. student in the [Department of Mathemtics](https://www.cityu.edu.hk/ma/) at City Universtiy of Hong Kong, 
