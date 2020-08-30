@@ -19,8 +19,8 @@ The heuristic motivations that push me to find out the Measure-valued Solution c
 > (i). It is able to transform the high dimensional and nonlinear integral operator, which is regarded as the main trouble-maker of the numerical simulation in Boltzmann equation, into a relatively simple weighted convolutional structure. <br>
 > (ii). It provides significantly more accurate results with less numerical complexity O(N^6) and storage requirement O(MN^4, M<N), and the fast acceleration can further reduce the computational cost to (MN^3logN, M<N) with the help of FFT. <br>
 > (iii). Its spatially homogeneous form can serve as a "black-box" solver in the velocity domain to be combined with other time and spatial discretization method to simulate the more practical complete Boltzmann equation, even with more complex geometric property. <br>
-
-![Time Evolution of Measure-valued Solution to Boltzmann equation with different collision kernels, which is simulated by our Fast Spectral Method](/files/four3.jpg "Time Evolution of Measure-valued Solution to Boltzmann equation with different collision kernels, which is simulated by our Fast Spectral Method")
+The following figure describes "Time Evolution of a Measure-valued Solution to Boltzmann equation with different collision kernels", which is simulated by our Fast Spectral Method:
+![Time Evolution of Measure-valued Solution to Boltzmann equation with different collision kernels, which is simulated by our Fast Spectral Method](/files/four3.jpg )
 
 Besides I'm also working in the study of the _consistency and stability property_ of Fast Spectral Method including the cutoff case or non-cutoff case. As there are some drawbacks in the Spectral method, which, for instance, merely preserves mass conservation but fails in the momentum and energy conservation law (though still preserve up to spectral accuracy), I would also expect to further improve the method and make it more practically usable.
 
