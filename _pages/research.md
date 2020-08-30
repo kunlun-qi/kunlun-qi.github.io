@@ -5,7 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interests
+### My research interest lies in Kinetic Partial Differential Equations, mainly the Boltzmann equation and its related models, both in the theoretical and numerical fields. Specifically speaking:
 ---
 
-Under construction.
+-(+*) In the theoretical sense, I mainly focus on the Measure-valued Solutions to the Boltzmann equation and its variants (namely, the inelastic collision model or uniform shear flow), including the existence, uniqueness, self-similar type asymptotic behavior and so forth.
+The heuristic motivations that push me to find out the Measure-valued Solution consist of the following points:
+> (1). Since the solution to Boltzmann equation itself represents a density function describing the velocity and position distribution of rarefied gas of particles, it is then pretty natural to find solutions from the probability measure space. <br>
+> (2). The Fourier Transform provides a powerful tool from which the Bobylev Identity ([A.Bobylev 1988](https://www.researchgate.net/publication/243771986_The_theory_of_the_nonlinear_spatially_uniform_Boltzmann_equation_for_Maxwell_molecules)) comes, and a new classification ([Y.Morimoto, S.Wang and T.Yang 2015](https://www.sciencedirect.com/science/article/pii/S0021782414001196)) on characteristic functions has been carefully constructed and studied, which also brings lots of conveniences. <br>
+> (3). In contrast with other Perturbation framework or Theories in the small, albeit some limitations, the Measure-valued Solution theory seems to be applied for more general initial datum as long as a probability measure. <br>
+> (4). The possibly intrinsic relationship with the following numerical spectral method also attracts my attention...
+
+-(+*) In the numerical sense, I mainly focus on developing an efficient and accurate numerical method in simulating the kinetic equation, which I mean the Fast Spectral Method ([I.Gamba, J.Haack, C.Hauck and J.Hu 2017](https://jingweihu-math.github.io/webpage/files/GHHH17.pdf)) for Boltzmann equation and its related variants. Comparing with other stochastic methods (like DSMC) or deterministic methods (like Discrete Velocity Models), the Fast Spectral Method has the followings advantages:
+> (1). It is able to transform the high dimensional and nonlinear integral operator, which is regarded as the main trouble-maker, into a relatively simple weighted convolutional structure. <br>
+> (2). It provides significantly more accurate results with less numerical complexity O(N^6) and storage requirement O(MN^4, M<N), and the fast acceleration can further reduce the computational cost to (MN^3logN, M<N) with the help of FFT. <br>
+> (3). Its spatially homogeneous form can serve as a "black-box" solver in the velocity domain to be combined with other time and spatial discretization method to simulate the more practical complete Boltzmann equation, even with more complex geometric property. <br>
+
+Besides I'm also working in the study of the consistency and stability property of Fast Spectral Method including the cutoff case or non-cutoff case. As there are some drawbacks in the Spectral method, which, for instance, merely preserves mass conservation but fails in the momentum and energy conservation law (though still preserve up to spectral accuracy), I would also expect to further improve the method and make it more practically usable.
+
