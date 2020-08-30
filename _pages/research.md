@@ -8,7 +8,7 @@ author_profile: true
 ### My research interest lies in _Kinetic Partial Differential Equations_, mainly the _Boltzmann equation and its related models_, in the theoretical and numerical fields. Specifically speaking:
 ---
 
-- In the _**theoretical**_ sense, I mainly focus on the _Measure-valued Solutions_ to the Boltzmann equation and its variants (namely, the inelastic collision model or uniform shear flow), including the existence, uniqueness, self-similar type asymptotic behavior and so forth.
+- In the _**theoretical**_ sense, I mainly focus on the _Measure-valued Solutions_ to the Boltzmann equation and its variants (such as the inelastic collision model, uniform shear flow, etc.), including the existence, uniqueness, self-similar type asymptotic behavior and so forth.
 The heuristic motivations that push me to find out the Measure-valued Solution consist of the following points:
 > (i). Since the solution to Boltzmann equation itself represents a density function describing the velocity and position distribution of rarefied gas of particles, it is then pretty natural to find solutions from the probability measure space. <br>
 > (ii). The Fourier Transform provides a powerful tool from which the Bobylev Identity ([A. Bobylev 1988](https://www.researchgate.net/publication/243771986_The_theory_of_the_nonlinear_spatially_uniform_Boltzmann_equation_for_Maxwell_molecules)) comes, and a new classification ([Y. Morimoto, S. Wang and T. Yang 2015](https://www.sciencedirect.com/science/article/pii/S0021782414001196)) on characteristic functions has been carefully constructed and studied, which also brings lots of conveniences. <br>
@@ -23,5 +23,4 @@ The heuristic motivations that push me to find out the Measure-valued Solution c
 The following figure describes "Time Evolution of a Measure-valued Solution to Boltzmann equation with different collision kernels", which is simulated by our Fast Spectral Method:
 ![Time Evolution of Measure-valued Solution to Boltzmann equation with different collision kernels, which is simulated by our Fast Spectral Method](/files/four3.jpg )
 
-Besides I'm also working in the study of the _consistency and stability property_ of Fast Spectral Method including the cutoff case or non-cutoff case. As there are some drawbacks in the Spectral method, which, for instance, merely preserves mass conservation but fails in the momentum and energy conservation law (though still preserve up to spectral accuracy), I would also expect to further improve the method and make it more practically usable.
-
+Besides I'm also working in the study of the _consistency and stability property_ of Fast Spectral Method including the cutoff case and non-cutoff case. As there are some drawbacks in the Spectral method, which, for instance, merely preserves mass conservation but fails in the momentum and energy conservation law (though still preserve up to spectral accuracy), I would also expect to further improve the method and make it more practically applicable.
