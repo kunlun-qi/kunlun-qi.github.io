@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 (i). In the _**theoretical**_ sense, I mainly focus on the _Measure-valued Solutions_ to the Boltzmann equation and its variants (such as the inelastic collision model, uniform shear flow, etc.), including the existence, uniqueness, self-similar type asymptotic behavior and so forth.
-The heuristic motivations that push me to find out the Measure-valued Solution consist of the following points:
+The heuristic motivations that push me to look for the Measure-valued Solutions consist of the following points:
 > - Since the solution to Boltzmann equation itself represents a density function describing the velocity and position distribution of rarefied gas of particles, it is then pretty natural to find solutions from the probability measure space. <br>
 > - The Fourier Transform provides a powerful tool from which the Bobylev Identity ([A. Bobylev 1988](https://www.researchgate.net/publication/243771986_The_theory_of_the_nonlinear_spatially_uniform_Boltzmann_equation_for_Maxwell_molecules)) comes, and a new classification ([Y. Morimoto, S. Wang and T. Yang 2015](https://www.sciencedirect.com/science/article/pii/S0021782414001196)) on characteristic functions has been carefully constructed and studied, which also brings lots of conveniences. <br>
 > - In contrast with other Perturbation framework or Theories in the small, albeit some limitations, the Measure-valued Solution theory seems to be applied for more general initial datum as long as a probability measure. <br>
