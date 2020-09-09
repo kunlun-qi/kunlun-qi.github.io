@@ -18,7 +18,7 @@ author_profile: true
 
 2019/20 Semester A: [_MA2172 Applied Statistics for Sciences and Engineering_](/files/1920MA2172.pdf)
 
-2019/20 Semester B: _MA0101 Basic Engineering Mathematics I_
+2019/20 Semester B: [_MA0101 Basic Engineering Mathematics I_](/files/1920BMA0101.pdf)
 
 ### Teaching Assistant
 
