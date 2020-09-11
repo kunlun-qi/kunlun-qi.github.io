@@ -14,7 +14,7 @@ Kowloon Tong, Kowloon, Hong Kong<br>
 **_Email:_** kunlun.qi@my.cityu.edu.hk
 
 ## Bio
-I'm a third year Ph.D. student in the [Department of Mathemtics](https://www.cityu.edu.hk/ma/) at City Universtiy of Hong Kong, 
+I'm a fourth year Ph.D. student in the [Department of Mathemtics](https://www.cityu.edu.hk/ma/) at City Universtiy of Hong Kong, 
 surpervised by [Prof. Tong Yang](https://www.cityu.edu.hk/ma/people/profile/yangt.htm) in Partial Differential Equations and Kinetic Theory, 
 as well as informally advised by [Dr. Jingwei Hu](https://www.math.purdue.edu/~hu342/Site/Home.html) in the numerical field of Kinetic Equations. 
 Priori to that, I obtained my Bachelor degree in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/new/) in 2017, 
