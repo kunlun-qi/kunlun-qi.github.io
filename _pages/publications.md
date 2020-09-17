@@ -9,7 +9,7 @@ Preprint
 ---
 1. Measure valued solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _submitted_, 2020. [arXiv:2005.08282](https://arxiv.org/abs/2005.08282)
 
-2. (With J. Hu and T. Yang) A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _submitted_, 2020. [arXiv:2007.05184] (https://arxiv.org/abs/2007.05184)
+2. (With J. Hu and T. Yang) A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _submitted_, 2020. [arXiv:2007.05184](https://arxiv.org/abs/2007.05184)
 
 
 
