@@ -14,7 +14,7 @@ Preprint
 
 
 
-Published/Accepted
+Published
 ---
 
 1. (With J. Hu) A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels, _**Journal of Computational Physics**_, 423:109806, 2020. [DOI:10.1016/j.jcp.2020.109806](https://doi.org/10.1016/j.jcp.2020.109806).
