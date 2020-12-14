@@ -11,7 +11,7 @@ Preprint
 
 2. (With J. Hu and T. Yang) A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _submitted_, 2020. [arXiv:2007.05184](https://arxiv.org/abs/2007.05184).
 
-
+3. On the Measure Valued Solution to the Inelastic Boltzmann Equation with Soft Potentials, _submitted_, 2020. [arXiv:2011.13309](https://arxiv.org/abs/2011.13309).
 
 
 Published
