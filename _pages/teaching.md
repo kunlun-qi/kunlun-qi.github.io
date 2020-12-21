@@ -20,7 +20,7 @@ author_profile: true
 
 2019/20 Semester B: [_MA0101 Basic Engineering Mathematics I_](/files/1920BMA0101.pdf)
 
-2020/21 Semester A: _MA1300 Enhanced Calculus and Linear Algebra I_
+2020/21 Semester A: [_MA1300 Enhanced Calculus and Linear Algebra I_](/files/2021AMA1300.pdf)
 
 ### Teaching Assistant
 
