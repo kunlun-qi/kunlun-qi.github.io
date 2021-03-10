@@ -11,7 +11,7 @@ Preprint
 [2] On the Measure Valued Solution to the Inelastic Boltzmann Equation with Soft Potentials, _submitted_, 2021. <br>
     arXiv:[2011.13309](https://arxiv.org/abs/2011.13309).
     
-[1] Measure valued solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _submitted_, 2020.<br>
+[1] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _submitted_, 2020.<br>
     arXiv:[2005.08282](https://arxiv.org/abs/2005.08282).
 
 
