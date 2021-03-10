@@ -18,9 +18,9 @@ Preprint
 Published/Accepted
 ---
 
-[2] A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _accepted by **SIAM J. Numer. Anal.**_, 2021.<br>
+[2] A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _**SIAM J. Numer. Anal.**_, 59(2), 613–633, 2021.<br>
     with _J. Hu_ and _T. Yang_<br>
-    arXiv:[2007.05184](https://arxiv.org/abs/2007.05184).
+    DOI:[10.1137/20M1351813](https://doi.org/10.1137/20M1351813).
 
 [1] A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels, _**J. Comput. Phys.**_, 423:109806, 2020. <br>
     with _J. Hu_<br>
