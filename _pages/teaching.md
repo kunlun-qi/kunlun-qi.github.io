@@ -28,3 +28,5 @@ author_profile: true
 2018/19 Semester B: _MA8006 Functional Analysis and Applications_
 
 2019/20 Semester B: _MA3511 Ordinary Differential Equations_
+
+2020/21 Semester B: _MA8005 Advanced Partial Differential Equations I_
