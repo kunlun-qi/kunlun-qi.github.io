@@ -10,7 +10,7 @@ redirect_from:
 ---
 **_Office Address:_** Room 232A, Lady Shaw Building <br>
 The Chinese University of Hong Kong <br>
-Shatin, N.T., Hong Kong<br>
+Shatin, New Territories, Hong Kong<br>
 **_Office Phone:_** (+852) 3943 7978<br>
 **_Email:_** <kunlun.qi@cuhk.edu.hk> or <kunlun.qi@my.cityu.edu.hk>
 
