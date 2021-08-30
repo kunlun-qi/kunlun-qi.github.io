@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kunlun Qi  (綦昆仑)"
+title: "Kunlun Qi (綦昆仑)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
   - 
 ---
-**_Office Address:_** Room 1392, Fong Yun-wah Building <br>
-City University of Hong Kong, 83 Tat Chee Avenue <br>
-Kowloon Tong, Kowloon, Hong Kong<br>
-**_Office Phone:_** (+852) 3442 8683<br>
-**_Email:_** kunlun.qi@my.cityu.edu.hk
+**_Office Address:_** Room 232A, Lady Shaw Building <br>
+The Chinese University of Hong Kong <br>
+Shatin, N.T., Hong Kong<br>
+**_Office Phone:_** (+852) 3943 7978<br>
+**_Email:_** <kunlun.qi@cuhk.edu.hk> or <kunlun.qi@my.cityu.edu.hk>
 
 ## Bio
-I'm a fourth-year Ph.D. student in the [Department of Mathematics](https://www.cityu.edu.hk/ma/) at City University of Hong Kong, 
-supervised by [Prof. Tong Yang](https://www.cityu.edu.hk/ma/people/profile/yangt.htm) in Partial Differential Equations and Kinetic Theory, 
+I am currently a Postdoctoral Research Fellow in the [Department of Mathematics](https://www.math.cuhk.edu.hk/) of The Chinese University of Hong Kong, working with [Dr. Renjun Duan](https://www.math.cuhk.edu.hk/~rjduan/) and [Dr. Liu Liu](https://www.math.cuhk.edu.hk/~lliu/).
+
+Before joining CUHK, I obtained my Ph.D. degree from City University of Hong Kong in 2021, where I was fortunately supervised by [Prof. Tong Yang](https://www.cityu.edu.hk/ma/people/profile/yangt.htm) in Partial Differential Equations and Kinetic Theory, 
 as well as informally advised by [Dr. Jingwei Hu](https://www.math.purdue.edu/~hu342/Site/Home.html) in the numerical field of Kinetic Equations. 
-Prior to that, I obtained my Bachelor's degree in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/new/) in 2017, 
+Prior to that, I received my Bachelor's degree in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/new/) in 2017, 
 where my advisors are [Prof. Changjiang Zhu](http://www2.scut.edu.cn/math/2017/1227/c14582a242269/page.htm) and [Prof. Huanyao Wen](http://www2.scut.edu.cn/math/2017/1227/c14582a242252/page.htm).
