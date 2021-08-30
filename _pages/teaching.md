@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+
+## Teaching at The Chinese University of Hong Kong
+
+### Lecturer
+
+2021/22 Term 2: _MATH 6042 Topics in Differential Equations II_
+
 ## Teaching at City University of Hong Kong
 
 ### Lecturer
