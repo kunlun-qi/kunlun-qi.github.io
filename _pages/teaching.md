@@ -12,7 +12,7 @@ author_profile: true
 
 ### Lecturer
 
-2021/22 Term 1: [_MATH Mini-Course in Kinetic Theory_](/files/2021-22_Mini_Course_Overview.pdf)
+2021/22 Term 1: [_MATH-IMS Mini-Course in Kinetic Theory_](/files/2021-22_Mini_Course_Overview.pdf)
 
 2021/22 Term 2: _MATH 6042 Topics in Differential Equations II_
 
