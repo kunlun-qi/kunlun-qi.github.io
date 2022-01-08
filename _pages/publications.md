@@ -18,7 +18,7 @@ Preprint
 Publication List
 ---
 
-[4] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _to accepted by **J. Math. Phys.**_, 2022.<br>
+[4] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _accepted by **J. Math. Phys.**_, 2022.<br>
     arXiv:[2005.08282](https://arxiv.org/abs/2005.08282).
 
 [3] A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation, _**SIAM J. Numer. Anal.**_, 59(2), 613–633, 2021.<br>
