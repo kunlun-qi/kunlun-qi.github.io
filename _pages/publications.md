@@ -6,14 +6,13 @@ author_profile: true
 ---
 
 
-
-//Preprint
-//---
+// ---------
+// Preprint
 // [1] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _submitted_, 2020.<br>
-    arXiv:[2005.08282](https://arxiv.org/abs/2005.08282).
+    arXiv:[2005.08282](https://arxiv.org/abs/2005.08282). 
+// -----------
 
-
-//Published/Accepted
+// Published/Accepted
 Publication List
 ---
 
