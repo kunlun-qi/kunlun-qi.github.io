@@ -14,9 +14,8 @@ Preprint
 -----------  
 -->
 
-<!-- Published/Accepted -->
-Publication List
----
+<!-- Published/Accepted 
+----->
 
 [4] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _accepted by **J. Math. Phys.**_, 2022.<br>
     arXiv:[2005.08282](https://arxiv.org/abs/2005.08282).
