@@ -8,7 +8,6 @@ author_profile: true
 
 
 Preprint 
-
 -----------
  [1] Almost-exponential moments of the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2022.<br>
      with _Jin Woo Jang_.<br>
@@ -18,7 +17,6 @@ Preprint
 
 
 Published
-
 -----
 [4] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _**J. Math. Phys.**_, 63(2), 021503, 2022.<br>
     DOI:[10.1063/5.0062859](https://doi.org/10.1063/5.0062859).
@@ -37,9 +35,8 @@ Published
  ---------
 
 Thesis
-
 -------
 [1] Research on the Kinetic Type Equations with Relevant Numerical Methods, 2021.<br>
-    which has been awarded _"[2020-2021 HKMS Best Thesis Award]()"_ by The Hong Kong Mathematical Society.
+    which has been awarded _"[2020-2021 HKMS Best Thesis Award](/files/Best_Thesis_Award_KQ.pdf)"_ by The Hong Kong Mathematical Society.
     
 -------
