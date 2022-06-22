@@ -30,10 +30,10 @@ Published
 [1] A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels, _**J. Comput. Phys.**_, 423:109806, 2020. <br>
     with _Jingwei Hu_.<br>
     DOI:[10.1016/j.jcp.2020.109806](https://doi.org/10.1016/j.jcp.2020.109806).
--- 
+------
 
 Thesis
------
+-------
 [1] Research on the Kinetic Type Equations with Relevant Numerical Methods, 2021.<br>
     which has been awarded _"[2020-2021 HKMS Best Thesis Award]()"_ by The Hong Kong Mathematical Society.
 -------
