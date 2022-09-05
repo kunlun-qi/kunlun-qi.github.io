@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunlun Qi (綦昆仑)'s Homepage"
 title_separator          : "-"
 name                     : &name "Kunlun Qi"
-description              : &description "Postdoctral Research Fellow at The Chinese University of Hong Kong"
+description              : &description "Dunham Jackson Assistant Professor at the School of Mathematics of University of Minnesota"
 url                      : https://kunlun-qi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kunlun-qi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kunlun Qi"
   avatar           : "kunlunqi_profile.jpg"
-  bio              : "Postdoc in Mathematics"
-  location         : "Hong Kong"
+  bio              : "UMN MATH"
+  location         : "Minneapolis"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Vsj5vfUAAAAJ&view_op=list_works&gmla=AJsN-F4PcVZ6oGOyJm8yTR-_2lV8KqzBswgFAriQTpHMCIcdh6iG5UxTaKZjbsHcsqwBGTCkkKFGqpaLHDEVW_ahGOgFl9ClipDe8FuGXgnFKUIkDNxhxz9Oiy2balazdxeyTwGtKRj9kO43YtgdgknlQwyRqQMLzw"
-  email            : kunlun.qi@my.cityu.edu.hk
+  email            : kqi@umn.edu
   researchgate     : "https://www.researchgate.net/profile/Kunlun_Qi2"
   uri              :
   bitbucket        :
