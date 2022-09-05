@@ -11,7 +11,7 @@ author_profile: true
 
 ### Lecturer
 
-2022/23 Fall Semester: _MATH 5485 Numerical Methods I - Session 001 and 002_ (Detailed info on Canvas)
+2022/23 Fall Semester: _MATH 5485 Numerical Methods I - Session 001 and 002_ (Detailed info on [Canvas](https://canvas.umn.edu/login))
 
 ## Teaching at The Chinese University of Hong Kong
 
