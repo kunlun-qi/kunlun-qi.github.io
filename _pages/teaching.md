@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Teaching at University of Minnesota
+
+### Lecturer
+
+2022/23 Fall Semester: _MATH 5485 Numerical Methods I Session 001 and 002_(Detailed info on Canvas)
 
 ## Teaching at The Chinese University of Hong Kong
 
@@ -20,7 +25,6 @@ author_profile: true
 
 ### Lecturer
 
-
 2018/19 Semester A: [_MA1200 Calculus and Basic Linear Algebra I_](/files/1819MA1200.pdf)
 
 2018/19 Semester B: [_MA1201 Calculus and Basic Linear Algebra II_](/files/1819BMA1201.pdf)
@@ -31,8 +35,8 @@ author_profile: true
 
 2020/21 Semester A: [_MA1300 Enhanced Calculus and Linear Algebra I_](/files/2021AMA1300.pdf)
 
-### Teaching Assistant
 
+### Teaching Assistant
 
 2018/19 Semester B: _MA8006 Functional Analysis and Applications_
 
