@@ -41,7 +41,7 @@ Published
 Conference Proceedings
 -----
 
-[1] Measure Valued Solution to the Inelastic Boltzmann Equation for Hard Potentials without Angular Cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics: RGD 32**_,_submitted_, 2022. <br>
+[1] Measure Valued Solution to the Inelastic Boltzmann Equation for Hard Potentials without Angular Cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics: RGD 32**_, _submitted_, 2022. <br>
     with _Jin Woo Jang_.<br>
     
  ---------
