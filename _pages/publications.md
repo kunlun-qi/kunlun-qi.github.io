@@ -9,7 +9,11 @@ author_profile: true
 
 Preprint 
 -----------
- [1] Almost-exponential moments of the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2022.<br>
+[2] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, _submitted_, 2022.<br>
+     with _Liu Liu_.<br>
+     arXiv:[2212.04083](https://arxiv.org/abs/2206.09636). 
+
+[1] Almost-exponential moments of the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2022.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636](https://arxiv.org/abs/2206.09636). 
      
@@ -33,6 +37,15 @@ Published
     DOI:[10.1016/j.jcp.2020.109806](https://doi.org/10.1016/j.jcp.2020.109806). 
     
  ---------
+ 
+Conference Proceedings
+-----
+
+[1] Measure Valued Solution to the Inelastic Boltzmann Equation for Hard Potentials without Angular Cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics: RGD 32**_,_submitted_, 2022. <br>
+    with _Jin Woo Jang_.<br>
+    
+ ---------
+ 
 
 Thesis
 -------
