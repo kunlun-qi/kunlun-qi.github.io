@@ -11,7 +11,7 @@ Preprint
 -----------
 [2] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, _submitted_, 2022.<br>
      with _Liu Liu_.<br>
-     arXiv:[2212.04083](https://arxiv.org/abs/2206.09636). 
+     arXiv:[2212.04083](https://arxiv.org/abs/2212.04083). 
 
 [1] Almost-exponential moments of the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2022.<br>
      with _Jin Woo Jang_.<br>
