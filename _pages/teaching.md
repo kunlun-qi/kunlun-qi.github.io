@@ -9,9 +9,11 @@ author_profile: true
 
 ## Teaching at University of Minnesota
 
-### Lecturer
+### Instructor
 
-2022/23 Fall Semester: _MATH 5485 Numerical Methods I - Session 001 and 002_ ([Canvas](https://canvas.umn.edu/login))
+2022/23 Spring Semester: _MATH 5486 Introduction to Numerical Methods II - Session 001 ([Canvas](https://canvas.umn.edu/login))
+
+2022/23 Fall Semester: _MATH 5485 Introduction to Numerical Methods I - Session 001 and 002_ 
 
 ## Teaching at The Chinese University of Hong Kong
 
