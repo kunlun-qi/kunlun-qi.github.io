@@ -12,7 +12,7 @@ redirect_from:
 School of Mathematics <br>
 University of Minnesota-Twin Cities <br>
 206 Church St. SE Minneapolis, MN 55455 <br>
-**_Phone Number:_** (612)-512-2676<br>
+**_Office Phone:_** (612)-625-2004<br>
 **_Email:_** <kqi@umn.edu>
 
 ## Bio
