@@ -10,6 +10,11 @@ author_profile: true
 Preprint 
 -----------
 
+[3] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
+with _Richard. D. James_ and _Li Wang_.<br>
+     arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
+
+
 [2] Moments creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
