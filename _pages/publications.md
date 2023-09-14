@@ -10,6 +10,10 @@ author_profile: true
 Preprint 
 -----------
 
+[4] The small Deborah number limit for the fluid-particle flows: incompressible case, _submitted_, 2023.<br>
+with _Zhendong Fang_ and _Huanyao Wen_.<br>
+
+
 [3] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
 with _Richard D. James_ and _Li Wang_.<br>
      arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
