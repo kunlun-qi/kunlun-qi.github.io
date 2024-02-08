@@ -11,9 +11,9 @@ author_profile: true
 
 ### Instructor
 
-2023/24 Spring Semester: _MATH 4428 Mathematical Modeling - Session 001 and 002_ 
+2023/24 Spring Semester: _MATH 4428 Mathematical Modeling - Session 001 and 002_ ([Canvas](https://canvas.umn.edu/login)) 
 
-2023/24 Fall Semester: _MATH 5485 Introduction to Numerical Methods I - Session 001_ ([Canvas](https://canvas.umn.edu/login))
+2023/24 Fall Semester: _MATH 5485 Introduction to Numerical Methods I - Session 001_ 
 
 2022/23 Spring Semester: _MATH 5486 Introduction to Numerical Methods II - Session 001_ 
 
