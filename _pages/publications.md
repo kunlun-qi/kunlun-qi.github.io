@@ -34,7 +34,7 @@ with _Richard D. James_ and _Li Wang_.<br>
 Published/Accepted
 -----
 
-[5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, accepted by_**Commun. Math. Sci.**_, 2024.<br>
+[5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, accepted by _**Commun. Math. Sci.**_, 2024.<br>
      with _Liu Liu_.<br>
      arXiv:[2212.04083](https://arxiv.org/abs/2212.04083). 
 
