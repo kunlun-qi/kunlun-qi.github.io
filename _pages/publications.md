@@ -38,7 +38,6 @@ Published/Accepted
      with _Liu Liu_.<br>
      arXiv:[2212.04083](https://arxiv.org/abs/2212.04083). 
 
-
 [4] Measure Valued Solution to the Spatially Homogeneous Boltzmann Equation with Inelastic Long-Range Interactions, _**J. Math. Phys.**_, 63(2), 021503, 2022.<br>
     DOI:[10.1063/5.0062859](https://doi.org/10.1063/5.0062859).
 
@@ -54,14 +53,16 @@ Published/Accepted
     DOI:[10.1016/j.jcp.2020.109806](https://doi.org/10.1016/j.jcp.2020.109806). 
     
  ---------
- 
+
 Conference Proceedings
------
+------
 
 [1] Measure-valued solution to the inelastic Boltzmann equation for hard potentials without angular cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc. 2996, 040008**_, 2024. <br>
     with _Jin Woo Jang_.<br>
     DOI:[10.1063/5.0187383](https://doi.org/10.1063/5.0187383).
+
  ---------
+
  
 
 Thesis
