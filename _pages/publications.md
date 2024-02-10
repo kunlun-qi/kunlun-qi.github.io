@@ -10,8 +10,11 @@ author_profile: true
 Preprint 
 -----------
 
-[4] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
-with _Li Wang_ and _Alexander B. Watson_.<br>
+[5] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
+with _Li Wang_ and _Alexander B. Watson_.<be>
+
+[4] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, _submitted_, 2024.<br>
+with _Liu Liu_.<br>
 
 [3] The small Deborah number limit for the fluid-particle flows: incompressible case, _submitted_, 2023.<br>
 with _Zhendong Fang_ and _Huanyao Wen_.<br>
@@ -26,10 +29,7 @@ with _Richard D. James_ and _Li Wang_.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
-
-
 -----------  
-
 
 Published/Accepted
 -----
@@ -58,9 +58,9 @@ Published/Accepted
 Conference Proceedings
 -----
 
-[1] Measure Valued Solution to the Inelastic Boltzmann Equation for Hard Potentials without Angular Cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics: RGD 32**_, _submitted_, 2022. <br>
+[1] Measure-valued solution to the inelastic Boltzmann equation for hard potentials without angular cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc. 2996, 040008**_, 2024. <br>
     with _Jin Woo Jang_.<br>
-    
+    DOI:[10.1063/5.0187383](https://doi.org/10.1063/5.0187383).
  ---------
  
 
