@@ -25,7 +25,7 @@ with _Richard D. James_ and _Li Wang_.<br>
      arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
 
 
-[1] Moments creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[1] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
