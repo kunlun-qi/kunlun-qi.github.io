@@ -64,8 +64,8 @@ Conference Proceedings
 
 ---------
 
- 
 
+ 
 Thesis
 -------
 [1] Research on the Kinetic Type Equations with Relevant Numerical Methods, 2021.<br>
