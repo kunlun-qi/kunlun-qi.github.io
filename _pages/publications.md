@@ -10,12 +10,11 @@ author_profile: true
 Preprint 
 -----------
 
-[5] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
-with _Li Wang_ and _Alexander B. Watson_.<br>
-
-
-[4] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, _submitted_, 2024.<br>
+[5] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, _submitted_, 2024.<br>
 with _Liu Liu_.<br>
+
+[4] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
+with _Li Wang_ and _Alexander B. Watson_.<br>
 
 
 [3] The small Deborah number limit for the fluid-particle flows: incompressible case, _submitted_, 2023.<br>
