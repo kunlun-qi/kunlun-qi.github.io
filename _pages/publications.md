@@ -11,7 +11,7 @@ Preprint
 -----------
 
 [5] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
-with _Li Wang_ and _Alexander B. Watson_.<be>
+with _Li Wang_ and _Alexander B. Watson_.<br>
 
 [4] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, _submitted_, 2024.<br>
 with _Liu Liu_.<br>
