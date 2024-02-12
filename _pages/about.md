@@ -4,8 +4,8 @@
 ---
 permalink: /
 title: "Kunlun Qi (綦昆仑)"
-author_profile: true
 excerpt: "About me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
