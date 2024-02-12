@@ -1,7 +1,9 @@
+<!---
+excerpt: "About me"
+--->
 ---
 permalink: /
 title: "Kunlun Qi (綦昆仑)"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
