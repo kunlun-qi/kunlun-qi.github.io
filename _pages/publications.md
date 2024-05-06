@@ -10,27 +10,24 @@ author_profile: true
 Preprint 
 -----------
 
-[11] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, _submitted_, 2024.<br>
-     with _Liu Liu_.<br>
-     arXiv:[2402.07060](http://arxiv.org/abs/2402.07060). 
 
-[10] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
+[11] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
      with _Li Wang_ and _Alexander B. Watson_.<br>
      arXiv:[2402.06828](http://arxiv.org/abs/2402.06828). 
 
-[9] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
+[10] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
-[8] The small Deborah number limit for the fluid-particle flows I: incompressible case, _submitted_, 2023.<br>
+[9] The small Deborah number limit for the fluid-particle flows I: incompressible case, _submitted_, 2023.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
 
-[7] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
+[8] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
      with _Richard D. James_ and _Li Wang_.<br>
      arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
 
 
-[6] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[7] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -38,6 +35,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[6] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, accepted by _**SIAM/ASA J. Uncertain. Quantif.**_, 2024.<br>
+     with _Liu Liu_.<br>
+     arXiv:[2402.07060](http://arxiv.org/abs/2402.07060). 
 
 [5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, accepted by _**Commun. Math. Sci.**_, 2024.<br>
      with _Liu Liu_.<br>
