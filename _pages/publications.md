@@ -36,7 +36,7 @@ Preprint
 Published/Accepted
 -----
 
-[6] Spectral convergence of a semi-discretized numerical system for the Boltzmann equation with uncertainties, accepted by _**SIAM/ASA J. Uncertain. Quantif.**_, 2024.<br>
+[6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, accepted by _**SIAM/ASA J. Uncertain. Quantif.**_, 2024.<br>
      with _Liu Liu_.<br>
      arXiv:[2402.07060](http://arxiv.org/abs/2402.07060). 
 
