@@ -10,6 +10,8 @@ author_profile: true
 Preprint 
 -----------
 
+[12] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _submitted_, 2024.<br>
+     with _Zhendong Fang_.<br>
 
 [11] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
      with _Li Wang_ and _Alexander B. Watson_.<br>
