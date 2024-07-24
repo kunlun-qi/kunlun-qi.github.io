@@ -38,9 +38,9 @@ Preprint
 Published/Accepted
 -----
 
-[6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, accepted by _**SIAM/ASA J. Uncertain. Quantif.**_, 2024.<br>
+[6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, _**SIAM/ASA J. Uncertain. Quantif.**_, 12(3), 812–841, 2024.<br>
      with _Liu Liu_.<br>
-     arXiv:[2402.07060](http://arxiv.org/abs/2402.07060). 
+     DOI:[10.1137/24M1638483](https://doi.org/10.1137/24M1638483). 
 
 [5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, accepted by _**Commun. Math. Sci.**_, 2024.<br>
      with _Liu Liu_.<br>
