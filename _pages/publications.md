@@ -20,16 +20,11 @@ Preprint
 [10] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
-[9] The small Deborah number limit for the fluid-particle flows I: incompressible case, _submitted_, 2023.<br>
-     with _Zhendong Fang_ and _Huanyao Wen_.<br>
-
-
-[8] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
+[9] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
      with _Richard D. James_ and _Li Wang_.<br>
      arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
 
-
-[7] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[8] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -37,6 +32,9 @@ Preprint
 
 Published/Accepted
 -----
+
+[7] The small Deborah number limit for the fluid-particle flows I: incompressible case, _submitted_, accepted by _**Math. Models Methods Appl. Sci.(M3AS)**_, 2024.<br>
+     with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
 [6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, _**SIAM/ASA J. Uncertain. Quantif.**_, 12(3), 812–841, 2024.<br>
      with _Liu Liu_.<br>
