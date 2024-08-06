@@ -33,14 +33,14 @@ Preprint
 Published/Accepted
 -----
 
-[7] The small Deborah number limit for the fluid-particle flows I: incompressible case, _submitted_, accepted by _**Math. Models Methods Appl. Sci.(M3AS)**_, 2024.<br>
+[7] The small Deborah number limit for the fluid-particle flows I: incompressible case, _accepted by **Math. Models Methods Appl. Sci.(M3AS)**_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
 [6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, _**SIAM/ASA J. Uncertain. Quantif.**_, 12(3), 812–841, 2024.<br>
      with _Liu Liu_.<br>
      DOI:[10.1137/24M1638483](https://doi.org/10.1137/24M1638483). 
 
-[5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, accepted by _**Commun. Math. Sci.**_, 2024.<br>
+[5] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, _accepted by **Commun. Math. Sci.**_, 2024.<br>
      with _Liu Liu_.<br>
      arXiv:[2212.04083](https://arxiv.org/abs/2212.04083). 
 
