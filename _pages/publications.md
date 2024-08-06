@@ -64,12 +64,11 @@ Published/Accepted
 Conference Proceedings
 ------
 
-[1] Measure-valued solution to the inelastic Boltzmann equation for hard potentials without angular cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc. 2996, 040008**_, 2024.<br> 
+[1] Measure-valued solution to the inelastic Boltzmann equation for hard potentials without angular cutoff, _**Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics**_,  AIP Conf. Proc. 2996, 040008, 2024.<br> 
     with _Jin Woo Jang_.<br> 
     DOI:[10.1063/5.0187383](https://doi.org/10.1063/5.0187383).
 
 ---------
-
 
  
 Thesis
