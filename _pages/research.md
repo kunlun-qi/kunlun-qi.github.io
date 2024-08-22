@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-***My current research interests and expertise lie in _**developing multiscale, analytical, computational, and data-driven methods for the kinetic theory**_, mainly the Boltzmann equation and related kinetic models, arising from statistical physics, fluid dynamics, material science, biology, and so forth. Specifically,
+### My current research interests and expertise lie in _**developing multiscale, analytical, computational, and data-driven methods for the kinetic theory**_, mainly the Boltzmann equation and related kinetic models, arising from statistical physics, fluid dynamics, material science, biology, and so forth. Specifically,
 
 - (I) _**Multiscale Modeling**_: Kinetic limit of many-particle dynamical complex systems, hydrodynamic limit of kinetic models, and semi-classical limit of quantum systems;
 
@@ -20,23 +20,23 @@ author_profile: true
 
 ---
 
-(I) From _**Multiscale Modeling**_ perspective: 
+(I) From **multiscale modeling** perspective: 
 In the classical hierarchy of fluid mechanics, the kinetic equation serves as the bridge that connects many-particle dynamical systems on the microscopic scale to the fluid system on the macroscopic level. 
 ![Big-pic](/files/multiscale1.png)
 Recently, we mainly focus on the multiscale modeling derivation concerning: 
 - Objective Molecular Dynamics (OMD), leveraging the symmetry and invariance of atomic forces and significantly reducing the computational cost compared to conventional Molecular Dynamics.
 - Fluid-particle two-phase coupled system such as Vlasov-Fokker-Planck equation coupled with Navier-Stokes equations, and Boltzmann equation of (multi-species) gas mixture.
-- Semi-classical limit for the Schrodinger equation and the effective dynamics of 2D material graphene.
+- Semi-classical limit for the Schrodinger equation and the effective dynamics of 2D material graphene. <br>
   
   > _Corresponding Papers_: <br>
-  > [1] R. D. James, K. Qi and L. Wang, _On the kinetic description of the objective molecular dynamics_, **preprint**, 2023. ([Link](https://arxiv.org/abs/2307.16814)).<br>
-  > [2] K. Qi, L. Wang and A. B. Watson _Radiative transport in a periodic structure with band crossings_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2402.06828)).<br>
-  > [3] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows I: incompressible case_, **Math. Models Methods Appl. Sci.(M3AS)**, 2024.<br>
-  > [4] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows II: compressible case_, **preprint**, 2024.<br>
+  > [1] R. D. James, K. Qi and L. Wang, _On the kinetic description of the objective molecular dynamics_, **preprint**, 2023. ([Link](https://arxiv.org/abs/2307.16814)). <br>
+  > [2] K. Qi, L. Wang and A. B. Watson _Radiative transport in a periodic structure with band crossings_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2402.06828)). <br>
+  > [3] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows I: incompressible case_, **Math. Models Methods Appl. Sci.(M3AS)**, 2024. <br>
+  > [4] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows II: compressible case_, **preprint**, 2024. <br>
   > [5] Z. Fang and K. Qi, _From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2408.03570)).
 
 
-(II) From _**theoretical**_ perspective: 
+(II) From **theoretical** perspective: 
 I mainly focus on the _Measure-valued solutions_ to the Boltzmann equation and its variants (such as the inelastic collision model, homo-energetic model, etc.), including the existence, uniqueness, self-similar type asymptotic behavior and, so forth.
 The heuristic motivations that push me to look for Measure-valued solutions include:
 - Since the solution to the Boltzmann equation itself represents a probability distribution function in phase space, it is natural to find solutions in the probability measure space. 
@@ -50,7 +50,7 @@ The heuristic motivations that push me to look for Measure-valued solutions incl
   > [4] J. W. Jang and K. Qi,  _Measure-valued solution to the inelastic Boltzmann equation for hard potentials without angular cutoff_, Proceedings of RGD32, **AIP Conf.~Proc.**, 2996, 040008, 2024.  ([Link](https://pubs.aip.org/aip/acp/article-abstract/2996/1/040008/3262532/Measure-valued-solution-to-the-inelastic-Boltzmann?redirectedFrom=fulltext)).
 
 
-(III) From _**numerical**_ perspective, I mainly focus on developing an efficient and accurate numerical method for solving kinetic equations, i.e., the _Fast Fourier-Spectral Method_ ([I. Gamba, J. Haack, C. Hauck and J. Hu 2017](https://jingweihu-math.github.io/webpage/files/GHHH17.pdf)). Compared with other stochastic methods (e.g., DSMC) or deterministic methods (e.g., Discrete Velocity Models), it has the following advantages:
+(III) From **numerical** perspective, I mainly focus on developing an efficient and accurate numerical method for solving kinetic equations, i.e., the _Fast Fourier-Spectral Method_ ([I. Gamba, J. Haack, C. Hauck and J. Hu 2017](https://jingweihu-math.github.io/webpage/files/GHHH17.pdf)). Compared with other stochastic methods (e.g., DSMC) or deterministic methods (e.g., Discrete Velocity Models), it has the following advantages:
 -Transform the high dimensional and nonlinear integral operator, the main trouble-maker in solving the Boltzmann equation, into a relatively simple weighted convolutional structure. 
 - Provide significantly more accurate results with less numerical complexity O(N^6) and storage requirement O(MN^4, M<N), and utilize FFT to achieve further acceleration and reduce the computational cost to (MN^3logN, M<N). 
 - Serve as a "black-box" solver to be combined with other time and spatial discretization methods to simulate the more practical complete Boltzmann equation.
@@ -63,7 +63,7 @@ Besides, I'm also working on rigorous proof of the _consistency and stability_ o
   > [3] R. D. James, K. Qi and L. Wang, _An anisotropic rescaling velocity method for the homo-energetic Boltzmann equation_, **in preparation**, 2024.
 
 
-(IV) From _**data-driven**_ and _**machine-learning-assisted**_ perspective: 
+(IV) From **data-driven** and **machine-learning-assisted** perspective: 
 With the explosion of available data and the advancements of machine-learning techniques, we aim to leverage Data-driven methodologies to enhance our research in kinetic theory and related multiscale models. 
 Rather than directly applying Machine-Learning tools to solve equations, we envision them providing heuristic and practical support in the modeling process, particularly in addressing the moments closure problem of kinetic-type equations.
 - Generate benchmark/training data with Uncertainty Quantification (UQ). 
