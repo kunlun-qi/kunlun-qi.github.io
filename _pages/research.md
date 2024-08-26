@@ -31,7 +31,7 @@ Recently, we mainly focus on the multiscale modeling derivation concerning:
   > Corresponding Papers: <br>
   > [1] R. D. James, K. Qi and L. Wang, _On the kinetic description of the objective molecular dynamics_, **preprint**, 2023. ([Link](https://arxiv.org/abs/2307.16814)). <br>
   > [2] K. Qi, L. Wang and A. B. Watson _Radiative transport in a periodic structure with band crossings_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2402.06828)). <br>
-  > [3] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows I: incompressible case_, **Math. Models Methods Appl. Sci.(M3AS)**, 2024. <br>
+  > [3] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows I: incompressible case_, **Math. Models Methods Appl. Sci.(M3AS)**, 12(34), 2024. ([Link](https://doi.org/10.1142/S0218202524500489)). <br>
   > [4] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows II: compressible case_, **preprint**, 2024. <br>
   > [5] Z. Fang and K. Qi, _From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2408.03570)).
 
