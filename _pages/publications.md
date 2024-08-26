@@ -37,6 +37,8 @@ Published/Accepted
 [7] The small Deborah number limit for the fluid-particle flows I: incompressible case, <br>
 _accepted by **Math. Models Methods Appl. Sci.(M3AS)**_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
+     DOI: [10.1142/S0218202524500489](https://doi.org/10.1142/S0218202524500489).
+     
 
 [6] Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties, _**SIAM/ASA J. Uncertain. Quantif.**_, 12(3), 812–841, 2024.<br>
      with _Liu Liu_.<br>
