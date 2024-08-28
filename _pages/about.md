@@ -23,16 +23,10 @@ Prior to CUHK, I obtained my Ph.D. degree from [City University of Hong Kong](ht
 
 ## Grants and Awards
 
-2023 "**SIAM Early Career Travel Award**" by SIAM and NSF. 
-
-2022 "**Hong Kong Mathematical Society Best Thesis Award**" by Hong Kong Mathematical Society. 
-
-2019 "**Outstanding Teaching Awards**" for Teaching Assistants by City University of Hong Kong.
-
-2017-2021 "**UGC funded Postgraduate studentship**" by The University Grants Committee of Hong Kong. 
-
-2016 "**National Scholarship for Undergraduates**".
-
-2016 "**Top 10 Outstanding Students at SCUT**" (highest award for UG students at SCUT).
-
-2016 "**First Prize in the Chinese Undergraduate Mathematics Competition** (Guangdong Division)" by Chinese Mathematical Society.
+- 2023 "**SIAM Early Career Travel Award**" by SIAM and NSF. 
+- 2022 "**Hong Kong Mathematical Society Best Thesis Award**" by Hong Kong Mathematical Society. 
+- 2019 "**Outstanding Teaching Awards**" for Teaching Assistants by City University of Hong Kong.
+- 2017-2021 "**UGC funded Postgraduate studentship**" by The University Grants Committee of Hong Kong. 
+- 2016 "**National Scholarship for Undergraduates**".
+- 2016 "**Top 10 Outstanding Students at SCUT**" (highest award for UG students at SCUT).
+- 2016 "**First Prize in the Chinese Undergraduate Mathematics Competition** (Guangdong Division)" by Chinese Mathematical Society.
