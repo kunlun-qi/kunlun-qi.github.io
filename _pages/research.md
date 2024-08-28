@@ -9,11 +9,8 @@ author_profile: true
 ### My current research interests and expertise lie in _**developing multiscale, analytical, computational, and data-driven methods for the kinetic theory**_, mainly the Boltzmann equation and related kinetic models, arising from statistical physics, fluid dynamics, material science, biology, and so forth. Specifically,
 
 - (I) _**Multiscale Modeling**_: Kinetic limit of many-particle dynamical complex systems, hydrodynamic limit of kinetic models, and semi-classical limit of quantum systems;
-
 - (II) _**Theoretical Analysis for Kinetic PDE**_: Well-posedness and asymptotic behavior of Boltzmann equation and its related models via Fourier approach;
-
 - (III) _**Numerical Simulation for Kinetic PDE**_: Fourier-Spectral method and the fast algorithm for kinetic equation with stability/convergence analysis;
-
 - (IV) _**Data-driven and Machine-Learning-assisted Methods in Kinetic Theory**_: Data assimilation, Uncertainty Quantification (UQ) and machine-learning moments closure model.
 
 ![Big-pic](/files/Big-pic.png)
