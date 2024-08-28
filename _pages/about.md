@@ -27,6 +27,6 @@ Prior to CUHK, I obtained my Ph.D. degree from [City University of Hong Kong](ht
 2022 "Hong Kong Mathematical Society Best Thesis Award" by Hong Kong Mathematical Society. <br>
 2019 "Outstanding Teaching Awards" for Teaching Assistants by City University of Hong Kong. <br>
 2017-2021 "UGC funded Postgraduate studentship" by The University Grants Committee of Hong Kong. <br>
-2016 "National Scholarship for Undergraduates".
-2016 "Top 10 Outstanding Students at SCUT" (highest award for students at SCUT).
+2016 "National Scholarship for Undergraduates".<br>
+2016 "Top 10 Outstanding Students at SCUT" (highest award for students at SCUT).<br>
 2016 "First Prize in the Chinese Undergraduate Mathematics Competition (Guangdong Division)" by Chinese Mathematical Society.
