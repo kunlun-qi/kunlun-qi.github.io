@@ -11,6 +11,7 @@ Preprint
 -----------
 [15] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _submitted_, 2024.<br>
      with _Jingcheng Lu_, _Li Wang_ and _Jeff Calder_.<br>
+     arXiv:[2409.03872](http://arxiv.org/abs/2409.03872). 
 
 [14] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _submitted_, 2024.<br>
      with _Zhendong Fang_.<br>
