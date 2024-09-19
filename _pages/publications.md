@@ -24,11 +24,9 @@ Preprint
 [12] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
-[11] On the kinetic description of the objective molecular dynamics, _submitted_, 2023.<br>
-     with _Richard D. James_ and _Li Wang_.<br>
-     arXiv:[2307.16814](https://arxiv.org/abs/2307.16814). 
+ 
 
-[10] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[11] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -36,6 +34,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[10] On the kinetic description of the objective molecular dynamics, _accepted by **SIAM Multiscale Model. Simul.**_, 2024.<br>
+     with _Richard D. James_ and _Li Wang_.<br>
+     arXiv:[2307.16814](https://arxiv.org/abs/2307.16814).
 
 [9] The small Deborah number limit for the fluid-particle flows I: incompressible case, <br>
 _**Math. Models Methods Appl. Sci.(M3AS)**_, 12(34), 2024.<br>
