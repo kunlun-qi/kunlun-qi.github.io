@@ -49,9 +49,9 @@ _**Math. Models Methods Appl. Sci.(M3AS)**_, 12(34), 2024.<br>
      with _Liu Liu_.<br>
      DOI:[10.1137/24M1638483](https://doi.org/10.1137/24M1638483). 
 
-[7] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, _accepted by **Commun. Math. Sci.**_, 2024.<br>
+[7] Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties, _**Commun. Math. Sci.**_, 22(7), 1897-1925, 2024.<br>
      with _Liu Liu_.<br>
-     arXiv:[2212.04083](https://arxiv.org/abs/2212.04083). 
+     DOI:[10.4310/CMS.240918035418](https://dx.doi.org/10.4310/CMS.240918035418). 
 
 [6] Measure valued solution to the spatially homogeneous Boltzmann equation with inelastic long-range interactions, _**J. Math. Phys.**_, 63(2), 021503, 2022.<br>
     DOI:[10.1063/5.0062859](https://doi.org/10.1063/5.0062859).
