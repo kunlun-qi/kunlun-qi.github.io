@@ -68,7 +68,7 @@ Rather than directly applying Machine-Learning tools to solve equations, we envi
 - Apply obtained data to derive the moments closure models by Machine-Learning-assisted techniques.
   
   > Corresponding Papers: <br>
-  > [1] L. Liu and K. Qi, _Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties_, **Commun. Math. Sci.**, 2024. ([Link](https://arxiv.org/abs/2212.04083)). <br>
+  > [1] L. Liu and K. Qi, _Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties_, **Commun. Math. Sci.**, 22(7), 1897-1925, 2024. ([Link](https://dx.doi.org/10.4310/CMS.240918035418)). <br>
   > [2] L. Liu and K. Qi, _Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties_, **SIAM/ASA J. Uncertain. Quantif.**, 12(3), 812-841 2024. ([Link](https://epubs.siam.org/doi/10.1137/24M1638483)). <br>
   > [3] J. Lu, K. Qi, L. Wang and J. Calder, _Recovering the data of unclosed hydrodynamics from partial observations_, **preprint**, 2024. ([Link](http://arxiv.org/abs/2409.03872)). <br>
   > [4] J. W. Jang, J. Y. Lee, L. Liu, K. Qi and Z. Zhu, _Machine-learning moments closure model for the multi-phase computations of the semiclassical limit of the Schrodinger equation_, **in preparation**, 2024. <br>
