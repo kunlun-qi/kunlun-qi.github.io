@@ -17,16 +17,14 @@ Preprint
      with _Zhendong Fang_.<br>
      arXiv:[2408.03570](https://arxiv.org/abs/2408.03570). 
 
-[13] Radiative transport in a periodic structure with band crossings, _submitted_, 2024.<br>
-     with _Li Wang_ and _Alexander B. Watson_.<br>
-     arXiv:[2402.06828](http://arxiv.org/abs/2402.06828). 
 
-[12] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
+
+[13] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
  
 
-[11] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[12] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -34,6 +32,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[11] Radiative transport in a periodic structure with band crossings, _accepted by **SIAM J. Appl. Math.**_, 2024.<br>
+     with _Li Wang_ and _Alexander B. Watson_.<br>
+     arXiv:[2402.06828](http://arxiv.org/abs/2402.06828). 
 
 [10] On the kinetic description of the objective molecular dynamics, _accepted by **SIAM Multiscale Model. Simul.**_, 2024.<br>
      with _Richard D. James_ and _Li Wang_.<br>
