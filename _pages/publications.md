@@ -9,6 +9,10 @@ author_profile: true
 
 Preprint 
 -----------
+
+[16] Machine learning-based moment closure model for the semiconductor Boltzmann equation with uncertainties, _submitted_, 2024.<br>
+     with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
+
 [15] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _submitted_, 2024.<br>
      with _Jingcheng Lu_, _Li Wang_ and _Jeff Calder_.<br>
      arXiv:[2409.03872](http://arxiv.org/abs/2409.03872). 
