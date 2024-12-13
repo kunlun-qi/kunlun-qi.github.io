@@ -57,7 +57,7 @@ Besides, I'm also working on rigorous proof of the _consistency and stability_ o
   > Corresponding Papers: <br>
   > [1] J. Hu and K. Qi, _A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels_, **J. Comput. Phys.**, 423:109806, 2020. ([Link](https://doi.org/10.1016/j.jcp.2020.109806)). <br>
   > [2] J. Hu, K. Qi and T. Yang, _A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation_, **SIAM J. Numer. Anal.**, 59(2), 613-633, 2021. ([Link](https://doi.org/10.1137/20M1351813)). <br>
-  > [3] R. D. James, K. Qi and L. Wang, _An anisotropic rescaling velocity method for the homo-energetic Boltzmann equation_, **preprint**, 2024.
+  > [3] R. D. James, K. Qi and L. Wang, _An anisotropic rescaling velocity method for the homo-energetic Boltzmann equation_, **preprint**, 2024. <br>
   > [4] K. Qi, L. Shen and L. Wang, _A fast spectral method for wave kinetic equation_, **preprint**, 2024.
 
 
