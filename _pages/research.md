@@ -26,7 +26,7 @@ Recently, we mainly focus on the multiscale modeling derivation concerning:
 - Semi-classical limit for the Schrodinger equation and the effective dynamics of 2D material graphene. <br>
   
   > Corresponding Papers: <br>
-  > [1] R. D. James, K. Qi and L. Wang, _On the kinetic description of the objective molecular dynamics_, **SIAM Multiscale Model. Simul.**, 2024. ([Link](https://arxiv.org/abs/2307.16814)). <br>
+  > [1] R. D. James, K. Qi and L. Wang, _On the kinetic description of the objective molecular dynamics_, **SIAM Multiscale Model. Simul.**, 22(4), 1646-1682, 2024. ([Link](https://arxiv.org/abs/2307.16814)). <br>
   > [2] K. Qi, L. Wang and A. B. Watson _Radiative transport in a periodic structure with band crossings_, **SIAM J. Appl. Math.**, 2024. ([Link](https://arxiv.org/abs/2402.06828)). <br>
   > [3] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows I: incompressible case_, **Math. Models Methods Appl. Sci.(M3AS)**, 12(34), 2024. ([Link](https://doi.org/10.1142/S0218202524500489)). <br>
   > [4] Z. Fang, K. Qi and H. Wen, _The small Deborah number limit for the fluid-particle flows II: compressible case_, **preprint**, 2024. <br>
@@ -57,7 +57,8 @@ Besides, I'm also working on rigorous proof of the _consistency and stability_ o
   > Corresponding Papers: <br>
   > [1] J. Hu and K. Qi, _A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels_, **J. Comput. Phys.**, 423:109806, 2020. ([Link](https://doi.org/10.1016/j.jcp.2020.109806)). <br>
   > [2] J. Hu, K. Qi and T. Yang, _A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation_, **SIAM J. Numer. Anal.**, 59(2), 613-633, 2021. ([Link](https://doi.org/10.1137/20M1351813)). <br>
-  > [3] R. D. James, K. Qi and L. Wang, _An anisotropic rescaling velocity method for the homo-energetic Boltzmann equation_, **in preparation**, 2024.
+  > [3] R. D. James, K. Qi and L. Wang, _An anisotropic rescaling velocity method for the homo-energetic Boltzmann equation_, **preprint**, 2024.
+  > [4] K. Qi, L. Shen and L. Wang, _A fast spectral method for wave kinetic equation_, **preprint**, 2024.
 
 
 (IV) From **data-driven** and **machine-learning-assisted** perspective: 
@@ -71,5 +72,6 @@ Rather than directly applying Machine-Learning tools to solve equations, we envi
   > [1] L. Liu and K. Qi, _Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties_, **Commun. Math. Sci.**, 22(7), 1897-1925, 2024. ([Link](https://dx.doi.org/10.4310/CMS.240918035418)). <br>
   > [2] L. Liu and K. Qi, _Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties_, **SIAM/ASA J. Uncertain. Quantif.**, 12(3), 812-841 2024. ([Link](https://epubs.siam.org/doi/10.1137/24M1638483)). <br>
   > [3] J. Lu, K. Qi, L. Wang and J. Calder, _Recovering the data of unclosed hydrodynamics from partial observations_, **preprint**, 2024. ([Link](http://arxiv.org/abs/2409.03872)). <br>
-  > [4] J. W. Jang, J. Y. Lee, L. Liu, K. Qi and Z. Zhu, _Machine-learning moments closure model for the multi-phase computations of the semiclassical limit of the Schrodinger equation_, **in preparation**, 2024. <br>
-  > [5] J. Huang, L. Liu, K. Qi and J. Wan, _On the machine-learning moments closure for the linear semiconductor Boltzmann equation_, **in preparation**, 2024. 
+  > [4] J. Huang, L. Liu, K. Qi and J. Wan, _Machine learning-based moment closure model for the semiconductor Boltzmann equation with uncertainties_, **preprint**, 2024. ([Link](https://arxiv.org/abs/2412.01932)). <br>
+  > [5] J. W. Jang, J. Y. Lee, L. Liu, K. Qi and Z. Zhu, _Machine-learning moments closure model for the multi-phase computations of the semiclassical limit of the Schrodinger equation_, **in preparation**, 2024.
+   
