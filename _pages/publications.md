@@ -34,9 +34,9 @@ Preprint
 Published/Accepted
 -----
 
-[11] Radiative transport in a periodic structure with band crossings, _accepted by **SIAM J. Appl. Math.**_, 2024.<br>
+[11] Radiative transport in a periodic structure with band crossings, _**SIAM J. Appl. Math.**_, 85(1), 314-340, 2025.<br>
      with _Li Wang_ and _Alexander B. Watson_.<br>
-     arXiv:[2402.06828](http://arxiv.org/abs/2402.06828). 
+     DOI:[10.1137/24M1638082](https://doi.org/10.1137/24M1638082). 
 
 [10] On the kinetic description of the objective molecular dynamics, _**SIAM Multiscale Model. Simul.**_, 22(4), 1646-1682, 2024.<br>
      with _Richard D. James_ and _Li Wang_.<br>
