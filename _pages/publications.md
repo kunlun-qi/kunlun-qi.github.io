@@ -10,6 +10,10 @@ author_profile: true
 Preprint 
 -----------
 
+[17] A fast Fourier spectral method for wave kinetic equation, _submitted_, 2025.<br>
+     with _Lian Shen_ and _Li Wang_.<br>
+     arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
+
 [16] Machine learning-based moment closure model for the semiconductor Boltzmann equation with uncertainties, _submitted_, 2024.<br>
      with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
      arXiv:[2412.01932](http://arxiv.org/abs/2412.01932).
