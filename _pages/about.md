@@ -23,11 +23,13 @@ Prior to CUHK, I obtained my Ph.D. degree from [City University of Hong Kong](ht
 
 ## Grants and Awards
 
+- 2025-27 "**AMS-Simons Travel Award**" by AMS and Simons Foundation.
+- 2025 "**AMS Travel Award for MCA25**" by AMS.
 - 2023 "**SIAM Early Career Travel Award**" by SIAM and NSF.
-- 2023-2024 "**UMN Postdoc Awards (Honorable Mention) in Impactful Research**" by University of Minnesota.
+- 2023-24 "**UMN Postdoc Awards (Honorable Mention) in Impactful Research**" by University of Minnesota.
 - 2022 "**Hong Kong Mathematical Society Best Thesis Award**" by Hong Kong Mathematical Society. 
 - 2019 "**Outstanding Teaching Award**" for Teaching Assistants by City University of Hong Kong.
-- 2017-2021 "**UGC-funded Postgraduate Studentship**" by The University Grants Committee of Hong Kong. 
+- 2017-21 "**UGC-funded Postgraduate Studentship**" by The University Grants Committee of Hong Kong. 
 - 2016 "**National Scholarship for Undergraduates**".
 - 2016 "**Top 10 Outstanding Students at SCUT**" (highest award for UG students at SCUT).
 - 2016 "**First Prize in the Chinese Undergraduate Mathematics Competition** (Guangdong Division)" by Chinese Mathematical Society.
