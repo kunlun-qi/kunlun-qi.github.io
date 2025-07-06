@@ -34,9 +34,9 @@ Preprint
 Published/Accepted
 -----
 
-[12] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _accepted by **J. Comput. Phys.**_, 2025.<br>
+[12] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _**J. Comput. Phys.**_, 538: 114199, 2025.<br>
      with _Jingcheng Lu_, _Li Wang_ and _Jeff Calder_.<br>
-     arXiv:[2409.03872](http://arxiv.org/abs/2409.03872). 
+     DOI:[10.1016/j.jcp.2025.114199](https://doi.org/10.1016/j.jcp.2025.114199). 
 
 [11] Radiative transport in a periodic structure with band crossings, _**SIAM J. Appl. Math.**_, 85(1), 314-340, 2025.<br>
      with _Li Wang_ and _Alexander B. Watson_.<br>
