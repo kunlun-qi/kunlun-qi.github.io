@@ -11,19 +11,19 @@ author_profile: true
 
 ### Instructor
 
-2024/25 Spring Semester: _MATH 2263 Multivariable Calculus - Session 020_ ([Canvas](https://canvas.umn.edu/login)) 
+2024/25 Spring: _MATH 2263 Multivariable Calculus_ ([Canvas](https://canvas.umn.edu/login)) 
 
-2024/25 Spring Semester: _MATH 5486 Introduction to Numerical Methods II_ ([Canvas](https://canvas.umn.edu/login)) 
+2024/25 Spring: _MATH 5486 Introduction to Numerical Methods II_ ([Canvas](https://canvas.umn.edu/login)) 
 
-2024/25 Fall Semester: _MATH 5485 Introduction to Numerical Methods I_ 
+2024/25 Fall: _MATH 5485 Introduction to Numerical Methods I_ 
 
-2023/24 Spring Semester: _MATH 4428 Mathematical Modeling_ 
+2023/24 Spring: _MATH 4428 Mathematical Modeling_ 
 
-2023/24 Fall Semester: _MATH 5485 Introduction to Numerical Methods I_ 
+2023/24 Fall: _MATH 5485 Introduction to Numerical Methods I_ 
 
-2022/23 Spring Semester: _MATH 5486 Introduction to Numerical Methods II_ 
+2022/23 Spring: _MATH 5486 Introduction to Numerical Methods II_ 
 
-2022/23 Fall Semester: _MATH 5485 Introduction to Numerical Methods I_ 
+2022/23 Fall: _MATH 5485 Introduction to Numerical Methods I_ 
 
 ## Teaching at The Chinese University of Hong Kong
 
