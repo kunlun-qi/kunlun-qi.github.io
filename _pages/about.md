@@ -16,7 +16,7 @@ Simons Laufer Mathematical Sciences Institute <br>
 
 
 
-In Fall 2025, I am at the [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as a SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). Then, from Dec 2025, I will join [Michigan State University](https://msu.edu/) as a (tenure-track) Assistant Professor -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring 2026.
+In Fall 2025, I am at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). Then, from Dec 2025, I will join [Michigan State University](https://msu.edu/) as an (tenure-track) Assistant Professor -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring 2026.
 
 From Aug 2022 - Aug 2025, I was a Dunham Jackson Assistant Professor (postdoctoral position) at the [School of Mathematics](https://cse.umn.edu/math) of [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/), where my mentor is [Li Wang](https://liwang-umn.github.io/math/), and also working with [Richard James](https://cse.umn.edu/aem/richard-d-james), [Mitchell Luskin](https://cse.umn.edu/math/mitchell-luskin) and [Alex Watson](https://cse.umn.edu/math/alex-watson).
 
