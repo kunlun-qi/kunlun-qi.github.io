@@ -18,14 +18,10 @@ Preprint
      with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
      arXiv:[2412.01932v2](http://arxiv.org/abs/2412.01932).
 
-[15] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _submitted_, 2024.<br>
-     with _Zhendong Fang_.<br>
-     arXiv:[2408.03570](https://arxiv.org/abs/2408.03570). 
-
-[14] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
+[15] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
-[13] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[14] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -33,6 +29,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _accepted by Kinet. Relat. Models_, 2025.<br>
+     with _Zhendong Fang_.<br>
+     arXiv:[2408.03570](https://arxiv.org/abs/2408.03570). 
 
 [12] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _**J. Comput. Phys.**_, 538: 114199, 2025.<br>
      with _Jingcheng Lu_, _Li Wang_ and _Jeff Calder_.<br>
