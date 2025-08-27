@@ -30,7 +30,7 @@ Preprint
 Published/Accepted
 -----
 
-[13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _accepted by Kinet. Relat. Models_, 2025.<br>
+[13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, accepted by _**Kinet. Relat. Models**_, 2025.<br>
      with _Zhendong Fang_.<br>
      arXiv:[2408.03570](https://arxiv.org/abs/2408.03570). 
 
