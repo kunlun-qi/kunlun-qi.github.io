@@ -30,9 +30,9 @@ Preprint
 Published/Accepted
 -----
 
-[13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, accepted by _**Kinet. Relat. Models**_, 2025.<br>
+[13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _**Kinet. Relat. Models**_, 17, 2025.<br>
      with _Zhendong Fang_.<br>
-     arXiv:[2408.03570](https://arxiv.org/abs/2408.03570). 
+     DOI:[10.3934/krm.2025017](https://www.aimsciences.org/article/doi/10.3934/krm.2025017). 
 
 [12] Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery, _**J. Comput. Phys.**_, 538: 114199, 2025.<br>
      with _Jingcheng Lu_, _Li Wang_ and _Jeff Calder_.<br>
