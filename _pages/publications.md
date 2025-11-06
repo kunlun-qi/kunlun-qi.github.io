@@ -10,18 +10,18 @@ author_profile: true
 Preprint 
 -----------
 
+[18] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2025.<br>
+     with _Boyun Hu_.<br>
+     arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
+
 [17] A fast Fourier spectral method for wave kinetic equation, _submitted_, 2025.<br>
      with _Lian Shen_ and _Li Wang_.<br>
      arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
 
-[16] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, _submitted_, 2025.<br>
-     with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
-     arXiv:[2412.01932v2](http://arxiv.org/abs/2412.01932).
-
-[15] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
+[16] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
 
-[14] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[15] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -29,6 +29,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[14] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, accepted by _**Comput. Methods Appl. Mech. Engrg.(CMAME)**_, 2025.<br>
+     with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
+     arXiv:[2412.01932v2](http://arxiv.org/abs/2412.01932).
 
 [13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _**Kinet. Relat. Models**_, 17, 2025.<br>
      with _Zhendong Fang_.<br>
