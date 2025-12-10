@@ -10,6 +10,10 @@ author_profile: true
 Preprint 
 -----------
 
+[19] Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime, _submitted_, 2025.<br>
+     with _Zhendong Fang_.<br>
+     arXiv:[2512.08346](https://arxiv.org/abs/2512.08346).
+
 [18] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2025.<br>
      with _Boyun Hu_.<br>
      arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
@@ -30,9 +34,9 @@ Preprint
 Published/Accepted
 -----
 
-[14] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, accepted by _**Comput. Methods Appl. Mech. Engrg.(CMAME)**_, 2025.<br>
+[14] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, _**Comput. Methods Appl. Mech. Engrg.(CMAME)**_, 450:118569, 2026.<br>
      with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
-     arXiv:[2412.01932v2](http://arxiv.org/abs/2412.01932).
+     DOI:[10.1016/j.cma.2025.118569](https://doi.org/10.1016/j.cma.2025.118569).
 
 [13] From the Boltzmann equation for gas mixture to the two-fluid incompressible hydrodynamic system, _**Kinet. Relat. Models**_, 17, 2025.<br>
      with _Zhendong Fang_.<br>
