@@ -14,13 +14,13 @@ Simons Laufer Mathematical Sciences Institute <br>
 
 ## Bio
 
+I am an (tenure-track) Assistant Professor Michigan State University from Dec 2025, affilated with [Department of Computational Mathematics, Science, and Enginnering (CMSE)](https://cmse.msu.edu) and [Department of Mathematics (MATH)](https://math.msu.edu) -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring/Fall 2026.
 
 
-In Fall 2025, I am at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). Then, from Dec 2025, I will join [Michigan State University](https://msu.edu/) as an (tenure-track) Assistant Professor -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring 2026.
-
+In Fall 2025, I am at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). 
 From Aug 2022 - Aug 2025, I was a Dunham Jackson Assistant Professor (postdoctoral position) at the [School of Mathematics](https://cse.umn.edu/math) of [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/), where my mentor is [Li Wang](https://liwang-umn.github.io/math/), and also working with [Richard James](https://cse.umn.edu/aem/richard-d-james), [Mitchell Luskin](https://cse.umn.edu/math/mitchell-luskin) and [Alex Watson](https://cse.umn.edu/math/alex-watson).
 
-Before joining UMN in 2022, I spent one year in the [Department of Mathematics](https://www.math.cuhk.edu.hk/) of The Chinese University of Hong Kong as Postdoctoral Fellow, working with [Renjun Duan](https://www.math.cuhk.edu.hk/~rjduan/).
+Before joining UMN in 2022, I spent one year in the [The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) as Postdoctoral Fellow, working with [Renjun Duan](https://www.math.cuhk.edu.hk/~rjduan/).
 Prior to CUHK, I obtained my Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) in 2021, where I was fortunate to be supervised by [Tong Yang](https://www.polyu.edu.hk/ama/people/academic-staff/prof-yang-tong/) in Partial Differential Equations and Kinetic Theory, as well as collaborating with [Jingwei Hu](https://jingweihu-math.github.io/webpage/) in the numerical field of Kinetic Equations. I received my Bachelor's degree in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/new/) in 2017, where my advisors were [Changjiang Zhu](http://www2.scut.edu.cn/math/2017/1227/c14582a242269/page.htm) and [Huanyao Wen](http://www2.scut.edu.cn/math/2017/1227/c14582a242252/page.htm).
 
 ## Grants and Awards
