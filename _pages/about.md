@@ -16,7 +16,7 @@ redirect_from:
 I am an (tenure-track) Assistant Professor at Michigan State University, affilated with [Department of Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu) and [Department of Mathematics (MATH)](https://math.msu.edu) -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring/Fall 2026.
 
 
-In Fall 2025, I am at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). 
+In Fall 2025, I was at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). 
 From Aug 2022 - Aug 2025, I was a Dunham Jackson Assistant Professor (postdoctoral position) at [University of Minnesota-Twin Cities](https://cse.umn.edu/math), where my mentor is [Li Wang](https://liwang-umn.github.io/math/), and also working with [Richard James](https://cse.umn.edu/aem/richard-d-james), [Mitchell Luskin](https://cse.umn.edu/math/mitchell-luskin) and [Alex Watson](https://cse.umn.edu/math/alex-watson).
 
 Before joining UMN in 2022, I spent one year in the [The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) as Postdoctoral Fellow, working with [Renjun Duan](https://www.math.cuhk.edu.hk/~rjduan/).
