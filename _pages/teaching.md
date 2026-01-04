@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching at University of Minnesota--Twin Cities
+## Teaching at Michigan State University
 
 ### Instructor
 
