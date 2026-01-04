@@ -11,9 +11,16 @@ author_profile: true
 
 ### Instructor
 
-2024/25 Spring: _MATH 2263 Multivariable Calculus_ ([Canvas](https://canvas.umn.edu/login)) 
+2025/26 Spring: _CMSE 201 Computational Modeling and Data Analysis_
 
-2024/25 Spring: _MATH 5486 Introduction to Numerical Methods II_ ([Canvas](https://canvas.umn.edu/login)) 
+
+## Teaching at University of Minnesota--Twin Cities
+
+### Instructor
+
+2024/25 Spring: _MATH 2263 Multivariable Calculus_
+
+2024/25 Spring: _MATH 5486 Introduction to Numerical Methods II_
 
 2024/25 Fall: _MATH 5485 Introduction to Numerical Methods I_ 
 
