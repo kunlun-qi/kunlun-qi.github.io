@@ -9,7 +9,7 @@ redirect_from:
 ---
 **_Office Address:_** Room 2507, Engineering Building <br>
 428 S Shaw Ln, East Lansing, MI, 48824 <br>
-**_Email:_** <qikunlun AT msu.edu>, <kunlunqi.math AT gmail.com> 
+**_Email:_** qikunlun AT msu.edu, kunlunqi.math AT gmail.com
 
 ## Bio
 
