@@ -13,7 +13,7 @@ redirect_from:
 
 ## Bio
 
-I am a (tenure-track) Assistant Professor at Michigan State University, affiliated with [Department of Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu) and [Department of Mathematics (MATH)](https://math.msu.edu) -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring/Fall 2026.
+I am a (tenure-track) Assistant Professor at Michigan State University, affiliated with [Department of Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu) and [Department of Mathematics (MTH)](https://math.msu.edu) -- I am looking for self-motivated PhD/Postdocs at MSU starting from Spring/Fall 2026.
 
 
 In Fall 2025, I was at [Simons Laufer Mathematical Sciences Institute (former MSRI)](https://www.slmath.org/), Berkeley, California, as SLMath postdoc fellow for ["Kinetic Theory" semester-long program](https://www.slmath.org/programs/357). 
