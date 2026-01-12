@@ -11,7 +11,7 @@ author_profile: true
 
 ### Instructor
 
-2025/26 Spring: _CMSE 201 Computational Modeling and Data Analysis_ [Course Web](https://cmse.msu.edu/cmse201)
+2025/26 Spring: _CMSE 201 Computational Modeling and Data Analysis_ [[Course Web](https://cmse.msu.edu/cmse201)]
 
 
 ## Teaching at University of Minnesota--Twin Cities
