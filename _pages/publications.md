@@ -26,7 +26,7 @@ Preprint
      with _Lian Shen_ and _Li Wang_.<br>
      arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
 
-[16] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
+[16] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2025.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
      arXiv:[2602.14412](https://arxiv.org/abs/2602.14412).
 
