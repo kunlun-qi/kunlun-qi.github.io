@@ -28,6 +28,7 @@ Preprint
 
 [16] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2024.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
+     arXiv:[2602.14412](https://arxiv.org/abs/2602.14412).
 
 [15] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
