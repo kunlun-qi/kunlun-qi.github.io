@@ -10,17 +10,17 @@ author_profile: true
 Preprint 
 -----------
 
-[20] The Semiclassical Limit of the 2D Dirac--Hartree Equation with Periodic Potentials, _submitted_, 2025.<br>
+[20] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2026.<br>
+     with _Boyun Hu_.<br>
+     arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
+
+[19] The Semiclassical Limit of the 2D Dirac--Hartree Equation with Periodic Potentials, _submitted_, 2025.<br>
      with _Jinyeop Lee_.<br>
      arXiv:[2512.19362](http://arxiv.org/abs/2512.19362).
 
-[19] Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime, _submitted_, 2025.<br>
+[18] Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime, _submitted_, 2025.<br>
      with _Zhendong Fang_.<br>
      arXiv:[2512.08346](https://arxiv.org/abs/2512.08346).
-
-[18] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2025.<br>
-     with _Boyun Hu_.<br>
-     arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
 
 [17] A fast Fourier spectral method for wave kinetic equation, _submitted_, 2025.<br>
      with _Lian Shen_ and _Li Wang_.<br>
