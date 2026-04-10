@@ -22,15 +22,11 @@ Preprint
      with _Zhendong Fang_.<br>
      arXiv:[2512.08346](https://arxiv.org/abs/2512.08346).
 
-[17] A fast Fourier spectral method for wave kinetic equation, _submitted_, 2025.<br>
-     with _Lian Shen_ and _Li Wang_.<br>
-     arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
-
-[16] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2025.<br>
+[17] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2025.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
      arXiv:[2602.14412](https://arxiv.org/abs/2602.14412).
 
-[15] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[16] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -38,6 +34,10 @@ Preprint
 
 Published/Accepted
 -----
+
+[15] A fast Fourier spectral method for wave kinetic equation, _accepted by **J. Comput. Phys.**_, 2026.<br>
+     with _Lian Shen_ and _Li Wang_.<br>
+     arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
 
 [14] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, _**Comput. Methods Appl. Mech. Engrg.(CMAME)**_, 450:118569, 2026.<br>
      with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
