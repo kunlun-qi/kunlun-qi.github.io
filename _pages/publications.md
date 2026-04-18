@@ -35,9 +35,9 @@ Preprint
 Published/Accepted
 -----
 
-[15] A fast Fourier spectral method for wave kinetic equation, _accepted by **J. Comput. Phys.**_, 2026.<br>
+[15] A fast Fourier spectral method for wave kinetic equation, _**J. Comput. Phys.**_, 560, 2026.<br>
      with _Lian Shen_ and _Li Wang_.<br>
-     arXiv:[2503.12805](https://arxiv.org/abs/2503.12805).
+     DOI:[10.1016/j.jcp.2026.114940](https://doi.org/10.1016/j.jcp.2026.114940).
 
 [14] Machine learning-based moment closure model for the linear Boltzmann equation with uncertainties, _**Comput. Methods Appl. Mech. Engrg.(CMAME)**_, 450:118569, 2026.<br>
      with _Juntao Huang_, _Liu Liu_ and _Jiayu Wan_.<br>
