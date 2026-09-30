@@ -106,3 +106,8 @@ Thesis
     which has been awarded _"[2020-2021 HKMS Best Thesis Award](/files/Best_Thesis_Award_KQ.pdf)"_ by The Hong Kong Mathematical Society.
     
 -------
+
+Repository reports/notes
+-------
+[1] A case study: numerical verification for the disproof of McKean’s conjecture on entropy production [manuscript](/files/entropy_verify-KQ.pdf)
+
