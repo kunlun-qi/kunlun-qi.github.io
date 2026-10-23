@@ -10,6 +10,10 @@ author_profile: true
 Preprint 
 -----------
 
+[21] A Quantitative Hydrodynamic Limit for the Vlasov-Fokker-Planck/Navier-Stokes System in the Fine Particle Regime, _submitted_, 2026.<br>
+     with _Zhendong Fang_, _Jian Li_ and _Huanyao Wen_.<br>
+     arXiv:[2610.21119](https://arxiv.org/abs/2610.21119).
+
 [20] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2026.<br>
      with _Boyun Hu_.<br>
      arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
