@@ -34,7 +34,7 @@ Preprint
 
 Published/Accepted
 -----
-[16] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _accepted J. Comput. Appl. Math._, 2026.<br>
+[16] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _accepted by J. Comput. Appl. Math._, 2026.<br>
      with _Boyun Hu_.<br>
      arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
 
