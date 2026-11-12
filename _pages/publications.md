@@ -14,23 +14,19 @@ Preprint
      with _Zhendong Fang_, _Jian Li_ and _Huanyao Wen_.<br>
      arXiv:[2610.21119](https://arxiv.org/abs/2610.21119).
 
-[20] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _submitted_, 2026.<br>
-     with _Boyun Hu_.<br>
-     arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
-
-[19] The Semiclassical Limit of the 2D Dirac--Hartree Equation with Periodic Potentials, _submitted_, 2025.<br>
+[20] The Semiclassical Limit of the 2D Dirac--Hartree Equation with Periodic Potentials, _submitted_, 2025.<br>
      with _Jinyeop Lee_.<br>
      arXiv:[2512.19362](http://arxiv.org/abs/2512.19362).
 
-[18] Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime, _submitted_, 2025.<br>
+[19] Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime, _submitted_, 2025.<br>
      with _Zhendong Fang_.<br>
      arXiv:[2512.08346](https://arxiv.org/abs/2512.08346).
 
-[17] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2025.<br>
+[18] The small Deborah number limit for the fluid-particle flows II: compressible case, _submitted_, 2025.<br>
      with _Zhendong Fang_ and _Huanyao Wen_.<br>
      arXiv:[2602.14412](https://arxiv.org/abs/2602.14412).
 
-[16] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
+[17] Global existence and moment creation for the inelastic Boltzmann equation for hard potentials without angular cutoff, _submitted_, 2023.<br>
      with _Jin Woo Jang_.<br>
      arXiv:[2206.09636v2](https://arxiv.org/abs/2206.09636v2). 
 
@@ -38,6 +34,9 @@ Preprint
 
 Published/Accepted
 -----
+[16] Solving the BGK model and Boltzmann equation by Fourier Neural Operator with conservative constraints, _accepted J. Comput. Appl. Math._, 2026.<br>
+     with _Boyun Hu_.<br>
+     arXiv:[2510.13047](https://arxiv.org/abs/2510.13047).
 
 [15] A fast Fourier spectral method for wave kinetic equation, _**J. Comput. Phys.**_, 560, 2026.<br>
      with _Lian Shen_ and _Li Wang_.<br>
